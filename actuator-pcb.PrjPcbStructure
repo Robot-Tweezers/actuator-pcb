@@ -1,0 +1,7 @@
+Record=TopLevelDocument|FileName=actuator0.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=actuator0.SchDoc|FileName=actuator1.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=actuator0.SchDoc|FileName=actuator2.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=actuator0.SchDoc|FileName=actuators-top.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=actuator0.SchDoc|FileName=esp32-gpio.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=actuator0.SchDoc|FileName=extra-pins.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=actuator0.SchDoc|FileName=power.SchDoc|SheetNumber=7
